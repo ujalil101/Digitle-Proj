@@ -12,5 +12,5 @@ Light Orange: Two Spaces Away
 Yellow: One Space Away
 
 
-Note that the reasoning distance is given and not directionality is to ensure that while the game will have an element of reasoning, it is still slightly luck based
+Note that the reasoning distance is given and not directionality is to ensure that while the game will have an element of reasoning, it is still slightly luck based!
 
